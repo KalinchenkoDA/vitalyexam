@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Взрослая академия\Desktop\Экз\ConsoleApplication1\ConsoleApplication1.cpp(191,44): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Desktop\Экз\ConsoleApplication1\ConsoleApplication1.cpp(192,50): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Desktop\Экз\ConsoleApplication1\ConsoleApplication1.cpp(194,44): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Desktop\Экз\ConsoleApplication1\ConsoleApplication1.cpp(244,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Взрослая академия\Desktop\Экз\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
